@@ -1,4 +1,4 @@
-package gui.listener;
+package gui.listeners;
 
 public interface DataChangeListener {
 	

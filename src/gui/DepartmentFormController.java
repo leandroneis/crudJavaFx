@@ -8,7 +8,7 @@ import java.util.ResourceBundle;
 import java.util.Set;
 
 import db.DbException;
-import gui.listener.DataChangeListener;
+import gui.listeners.DataChangeListener;
 import gui.util.Alerts;
 import gui.util.Constraints;
 import gui.util.Utils;
